@@ -1,2 +1,4 @@
 # Python_Projects
-Personal Python projects to learn and practice more with the language
+Realised according to the Udemy Python courses :
+* https://www.udemy.com/course/developpeur-python-formation-complete/
+* https://www.udemy.com/course/100-days-of-code/
